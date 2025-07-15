@@ -1,3 +1,4 @@
+Frontend and Backend are still in work.
 Technology Used
 1. Optical Character Recognition (OCR)
 Pytesseract: This is a Python wrapper for Google’s Tesseract-OCR Engine, which is an open-source OCR tool that can recognise text in images. It supports multiple languages and can be configured for various OCR tasks.
